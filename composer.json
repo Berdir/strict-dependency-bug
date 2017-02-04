@@ -1,0 +1,13 @@
+{
+    "name": "berdir/strict-dependency-bug",
+    "type": "metapackage",
+    "require": {
+        "webflo/drupal-core-strict": "8.2.6"
+    },
+    "authors": [
+        {
+            "name": "Sascha Grossenbacher",
+            "email": "saschagros@gmail.com"
+        }
+    ]
+}
